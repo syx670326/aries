@@ -1,0 +1,22 @@
+{
+	"properties": [
+		{
+			"name": "aries.epoch",
+			"type": "java.lang.Long",
+			"defaultValue": 1577836800000,
+			"description": "Start timestamp."
+		},
+		{
+			"name": "aries.projectid",
+			"type": "java.lang.Integer",
+			"defaultValue": 0,
+			"description": "project id."
+		},
+		{
+			"name": "aries.nodeid",
+			"type": "java.lang.Integer",
+			"defaultValue": 0,
+			"description": "node id."
+		}
+	]
+}
