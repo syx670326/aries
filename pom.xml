@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.chilipotato.springboot</groupId>
   <artifactId>aries</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>aries</name>
   <description>
     Aries is a service for generating unique IDs at high scale with some simple guarantees. These IDs are unique 64-bit unsigned integers, which are based on time, instead of being sequential. The full ID is composed of a timestamp, a project number, a node number, and a sequence number.
